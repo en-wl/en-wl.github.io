@@ -71,7 +71,7 @@ LLMs' analysis is a significant data point, but only one of many factors
 considered when adding words.
 
 To suggest new words simply create an issue at
-https://github.com/en-wl/wordlist/issues.  If you have multiple related words
+<https://github.com/en-wl/wordlist/issues>.  If you have multiple related words
 to suggest please include them in a single issue as it is less work for me to
 evaluate batches of words than one word at a time.
 
@@ -87,4 +87,4 @@ inconsistencies please feel free to report them as an issue.
 
 General feedback is also welcome, you can either email me directly at
 <kevina@gnu.org>, or preferably start a public discussion at
-https://github.com/en-wl/wordlist/discussions.
+<https://github.com/en-wl/wordlist/discussions>.

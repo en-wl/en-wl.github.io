@@ -14,7 +14,7 @@ SQLite3 database.
 This page contains information on SCOWLv1 and the artifacts from it.
 
 Historic releases are available on SourceForge.net at
-https://sourceforge.net/projects/wordlist/files/.
+<https://sourceforge.net/projects/wordlist/files/>.
 
 ## Original SCOWL
 

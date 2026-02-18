@@ -28,4 +28,4 @@ SCOWLv2 is still a work in progress.  Official speller dictionaries
 generated from SCOWL will be released periodically.  However, an official
 release of SCOWL itself will not be created until things stabilize.  If you
 wish to use SCOWL directly, it is best you check out the source from Git at
-https://github.com/en-wl/wordlist.
+<https://github.com/en-wl/wordlist>.
