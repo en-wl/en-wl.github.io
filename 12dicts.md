@@ -45,8 +45,7 @@ information in a different way.
 <a href="http://downloads.sourceforge.net/wordlist/alt12dicts-2020.12.07.tar.gz">tar.gz</a>,
 <a href="http://downloads.sourceforge.net/wordlist/alt12dicts-2020.12.07.zip">zip</a>
 (2020.12.07)
-[source](http://github.com/en-wl/wordlist)        
-
+[source](https://github.com/en-wl/wordlist/tree/v1/alt12dicts)
 
 
 

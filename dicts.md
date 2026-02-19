@@ -39,11 +39,11 @@ have better coverage of British words and fewer Americanisms.  Marco's
 dictionaries are also considerably larger than the ones based on SCOWL, and
 include variant spellings.
 
-  * British, _-ise_ (traditional spelling):
+  * British, _-ise_ (alternative version, traditional spelling):
     <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_GB-ise-2020.12.07.zip">en_GB-ise</a>
-  * British, _-ize_ (Oxford spelling):
+  * British, _-ize_ (alternative version, Oxford spelling):
     <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_GB-ize-2020.12.07.zip">en_GB-ize</a>
-  * British large (both spellings):
+  * British large (alternative version, both spellings):
     <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_GB-large-2020.12.07.zip">en_GB-large</a>
 
 [Older Hunspell Dictionaries](https://sourceforge.net/projects/wordlist/files/speller/).
