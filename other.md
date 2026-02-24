@@ -31,7 +31,7 @@ a set of simple word lists that can be combined to create speller
 dictionaries of various sizes and dialects (American, British (both
 -ise and -ize), Canadian and Australian).
 
-[View readme](/scowl-readme).
+[View readme](/scowl_v1-readme).
 Download Version 2020.12.07 as: [tar.gz](http://downloads.sourceforge.net/wordlist/scowl-2020.12.07.tar.gz) (Unix EOL),
 [zip](http://downloads.sourceforge.net/wordlist/scowl-2020.12.07.zip) (DOS/Windows EOL).
 [Get source](https://github.com/en-wl/wordlist/tree/v1).
@@ -47,7 +47,7 @@ the equivalent forms of other variants.
 <a href="http://downloads.sourceforge.net/wordlist/varcon-2020.12.07.tar.gz">tar.gz</a>,
 <a href="http://downloads.sourceforge.net/wordlist/varcon-2020.12.07.zip">zip</a>
 (2020.12.07)
-[source](http://github.com/en-wl/wordlist)
+[source](https://github.com/en-wl/wordlist/tree/v1/varcon)
 
 _VarCon is no longer being maintained.  Variant information from VarCon is now
 part of SCOWL._
@@ -62,7 +62,7 @@ to be 100% accurate.
 <a href="http://downloads.sourceforge.net/wordlist/agid-2016.01.19.tar.gz">tar.gz</a>, 
 <a href="http://downloads.sourceforge.net/wordlist/agid-2016.01.19.zip">zip</a>
 (2016.01.19) 
-[source](http://github.com/en-wl/wordlist)
+[source](https://github.com/en-wl/wordlist/tree/v1/agid)
 
 _AGID is no longer being mainatined._
 
@@ -73,7 +73,7 @@ from the [Jargon file](http://en.wikipedia.org/wiki/Jargon_File).
 
 <a href="/jargon-wl-readme">readme</a>,
 <a href="http://downloads.sourceforge.net/wordlist/jargon-wl-4.2.0-1.tar.gz">tar.gz</a>,
-[source](http://github.com/en-wl/wordlist)        
+[source](https://github.com/en-wl/wordlist/tree/v1/jargon-wl)
 
 ## Part Of Speech Database
 
@@ -83,7 +83,7 @@ Part-of-Speech II" and the WordNet database.
 <a href="/pos-readme">readme</a>,
 <a href="http://downloads.sourceforge.net/wordlist/pos-1.tar.gz">tar.gz</a>,
 <a href="http://downloads.sourceforge.net/wordlist/pos-1.zip">zip</a>,
-[source](http://github.com/en-wl/wordlist)
+[source](https://github.com/en-wl/wordlist/tree/v1/pos)
 
 _Please note that this is not a very high quality source.  For common
 words the [2of12id.txt](/alt12dicts-infl-readme) file from the
@@ -104,8 +104,8 @@ are no longer directly used by SCOWL._
 
 ## Other Sources
 
-* [MWords](http://icon.shef.ac.uk/Moby/)
-* [UK English Wordlist With Frequency Classification](http://www.bckelk.ukfsn.org/menu.html)
+* [MWords](https://gutenberg.org/files/3201/3201-h/3201-h.htm)
+* [UK English Wordlist With Frequency Classification](https://web.archive.org/web/20210514132327/http://www.bckelk.ukfsn.org/menu.html)
 * [ENABLE, YAWL](http://web.archive.org/web/20090122025747/http://personal.riverusers.com/~thegrendel/software.html)
 * [UK Advanced Cryptics Dictionary (UKACD)](http://ftp.sunet.se/mirror/archive/ftp.sunet.se/pub/simtelnet/win3/homeent/ukacd17.zip)
 * [1990 Census report names file](http://www.census.gov/topics/population/genealogy/data/1990_census/1990_census_namefiles.html)
