@@ -9,17 +9,17 @@ British English are also available for Hunspell.
 
 ## Hunspell Dictionaries
 
-The latest release is: 2020.12.07 ([readme](/hunspell-readme))
+The latest release is: 2026.02.25 ([readme](/hunspell-readme))
 
   * American:
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_US-2020.12.07.zip">en_US</a>,
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_US-large-2020.12.07.zip">en_US-large</a>
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_US-2026.02.25.zip">en_US</a>,
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_US-large-2026.02.25.zip">en_US-large</a>
   * Canadian:
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_CA-2020.12.07.zip">en_CA</a>,
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_CA-large-2020.12.07.zip">en_CA-large</a>
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_CA-2026.02.25.zip">en_CA</a>,
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_CA-large-2026.02.25.zip">en_CA-large</a>
   * Australian:
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_AU-2020.12.07.zip">en_AU</a>,
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_AU-large-2020.12.07.zip">en_AU-large</a>
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_AU-2026.02.25.zip">en_AU</a>,
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_AU-large-2026.02.25.zip">en_AU-large</a>
 
 The default dictionaries correspond to SCOWL size 60 and, to encourage
 consistent spelling, generally only include one spelling variant for a word.
@@ -40,13 +40,26 @@ dictionaries are also considerably larger than the ones based on SCOWL, and
 include variant spellings.
 
   * British, _-ise_ (alternative version, traditional spelling):
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_GB-ise-2020.12.07.zip">en_GB-ise</a>
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_GB-ise-2026.02.25.zip">en_GB-ise</a>
   * British, _-ize_ (alternative version, Oxford spelling):
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_GB-ize-2020.12.07.zip">en_GB-ize</a>
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_GB-ize-2026.02.25.zip">en_GB-ize</a>
   * British large (alternative version, both spellings):
-    <a href="http://downloads.sourceforge.net/wordlist/hunspell-en_GB-large-2020.12.07.zip">en_GB-large</a>
+    <a href="https://github.com/en-wl/wordlist/releases/download/rel-2026.02.25/hunspell-en_GB-large-2026.02.25.zip">en_GB-large</a>
 
-[Older Hunspell Dictionaries](https://sourceforge.net/projects/wordlist/files/speller/).
+Older release of Hunspell Dictionaries are available on SourceForge at
+<https://sourceforge.net/projects/wordlist/files/speller/>.
+
+From 2026 onwards Hunspell Dictionaries are also available on GitHub at
+<https://github.com/en-wl/wordlist/releases>.
+
+## Plain Wordlists
+
+Plain wordlist versions for the latest release are available on SourceForge in
+the same directory as the latest release:
+<https://sourceforge.net/projects/wordlist/files/speller/2026.02.25>
+
+On GitHub they are available in the
+[wordlist-diff](https://github.com/en-wl/wordlist-diff/tree/rel-2026.02.25) repo.
 
 ## Aspell Dictionaries
 
@@ -80,7 +93,6 @@ check if a word is in the latest version use the
 [wordlist-diff](https://github.com/en-wl/wordlist-diff) repo.  This repo
 contains generated wordlists and the combined <tt>scowl.txt</tt> file
 for each commit to the main repo.
-
 
 SCOWL is in no way perfect, if you find words that don't belong or other
 inconsistencies please feel free to report them as an issue.

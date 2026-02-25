@@ -4,11 +4,12 @@ layout: page
 
 SCOWLv2 (temporary name, see
 [#465](https://github.com/en-wl/wordlist/discussions/465)) is a SQLite
-database and human-readable text file of basic information on English words.
-The text file can be converted to and from the SQLite database via the
-libscowl Python module.  The database contains information on how common a
-word is, differences in spelling between the different dialects of English,
-variant information, and (basic) part-of-speech and inflection information.
+database (_scowl.db_) and human-readable text file (_scowl.txt_) of basic
+information on English words.  The text file can be converted to and from the
+SQLite database via the libscowl Python module.  The database contains
+information on how common a word is, differences in spelling between the
+different dialects of English, variant information, and (basic) part-of-speech
+and inflection information.
 
 The primary purpose of the database is to allow the creation of high-quality
 spellchecker dictionaries for most dialects of English.  The dictionary
@@ -29,3 +30,8 @@ generated from SCOWL will be released periodically.  However, an official
 release of SCOWL itself will not be created until things stabilize.  If you
 wish to use SCOWL directly, it is best you check out the source from Git at
 <https://github.com/en-wl/wordlist>.
+
+The [wordlist-diff](https://github.com/en-wl/wordlist-diff) repo can be used
+to help determine which commit introduced or removed words.  It contains a
+generated version of <tt>scowl.txt</tt> and plain wordlist versions of the
+Hunspell dictionaries.
