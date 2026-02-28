@@ -3,7 +3,7 @@ title: "SCOWLv2"
 email: "kevina@gnu.org"
 description: ""
 baseurl: ""
-url: "https://en-wl.github.io"
+url: "https://wordlist.aspell.net"
 
 # Build settings
 markdown: kramdown
