@@ -2,8 +2,8 @@
 layout: page
 ---
 
-SCOWLv2 (temporary name, see
-[#465](https://github.com/en-wl/wordlist/discussions/465)) is a SQLite
+The English Spelling Database, also known as SCOWLv2 (temporary name, see
+[#465](https://github.com/en-wl/wordlist/discussions/465)), is a SQLite
 database (_scowl.db_) and human-readable text file (_scowl.txt_) of basic
 information on English words.  The text file can be converted to and from the
 SQLite database via the libscowl Python module.  The database contains

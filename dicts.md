@@ -1,6 +1,6 @@
 ---
 layout: page
-title: English Spell Checker Dictionaries
+title: English Speller Dictionaries
 ---
 
 SCOWL is the basis for the official English dictionary in Aspell and

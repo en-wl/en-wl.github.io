@@ -1,5 +1,5 @@
 ---
 layout: readme-text
-title: Hunspell English Dictionaries
+title: Hunspell English Dictionaries Readme
 file: hunspell-readme
 ---
