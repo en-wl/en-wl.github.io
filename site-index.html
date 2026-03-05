@@ -4,7 +4,7 @@ title: Site Index
 append_site_title: true
 ---
 <ul>
-{% for page in site.pages %}
+{% for page in site.html_pages %}
   <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</a></li>
 {% endfor %}
 </ul>
