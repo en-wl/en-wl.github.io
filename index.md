@@ -1,8 +1,9 @@
 ---
 layout: page
+title: English Speller Database (ESDB)
 ---
 
-The English Speller Database, also known as SCOWLv2 (temporary name, see
+The English Speller Database (ESDB, previously known as SCOWLv2, see
 [#465](https://github.com/en-wl/wordlist/discussions/465)), is a SQLite
 database (_scowl.db_) and human-readable text file (_scowl.txt_) of basic
 information on English words.  The text file can be converted to and from the
@@ -25,11 +26,11 @@ differences between the various dialects of English (current American,
 British, British (OED), Canadian, and Australian).  This includes marking of
 variant spellings within a dialect.
 
-SCOWLv2 is still a work in progress.  Official speller dictionaries
-generated from SCOWL will be released periodically.  However, an official
-release of SCOWL itself will not be created until things stabilize.  If you
-wish to use SCOWL directly, it is best you check out the source from Git at
-<https://github.com/en-wl/wordlist>.
+ESDB is still a work in progress.  Official speller dictionaries generated
+from the database will be released periodically.  However, an official release
+of the database itself will not be created until things stabilize.  If you
+wish to use the database directly, it is best you check out the source from
+Git at <https://github.com/en-wl/wordlist>.
 
 The [wordlist-diff](https://github.com/en-wl/wordlist-diff) repo can be used
 to help determine which commit introduced or removed words.  It contains a

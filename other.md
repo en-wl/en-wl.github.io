@@ -8,8 +8,8 @@ database into a set of simple word lists that can be combined to create
 speller dictionaries of various sizes and dialects (American, British (both
 -ise and -ize), Canadian and Australian).
 
-SCOWLv2 instead combines all that information into a single text file and
-SQLite3 database.
+The new English Speller Database (ESDB) instead combines all that information
+into a single text file and SQLite3 database.
 
 This page contains information on SCOWLv1 and the artifacts from it.
 
