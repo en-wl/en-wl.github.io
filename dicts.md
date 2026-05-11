@@ -31,8 +31,8 @@ might cause problems as they are likely to be misspellings of more common
 words (for example, "ort" and "calender").
 
 British English dictionaries are also available, however they are not
-considered the official dictionaries for Hunspell.  The official ones are
-maintained by Marco A.G.Pinto at <a
+considered the official dictionaries for Hunspell.  The official British
+dictionaries are maintained by Marco A.G.Pinto at <a
 href="https://proofingtoolgui.org/">proofingtoolgui.org</a>.  Marco's
 dictionaries are based on David Bartlett's now abandoned version.  They likely
 have better coverage of British words and fewer Americanisms.  Marco's
